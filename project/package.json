@@ -1,0 +1,16 @@
+{
+  "name": "game-recommend-bot",
+  "version": "1.0.0",
+  "description": "2D/3D 게임 장르와 분위기에 맞는 게임 아이디어 추천 챗봇",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
